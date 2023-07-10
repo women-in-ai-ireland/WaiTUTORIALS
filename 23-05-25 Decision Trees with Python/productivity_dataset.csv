@@ -1,0 +1,351 @@
+,day,focus_technique,location,task_type,task_duration,pauses_duration,motivation
+0,Tuesday,Zen to Done,Coffee Shop,Note Taking,120,10,Low
+1,Monday,Eat the Frog,Outdoors,Note Taking,60,10,Medium
+2,Tuesday,Task Batching,Outdoors,Writing,150,25,Low
+3,Tuesday,Eat the Frog,Library,Coding,180,15,Medium
+4,Friday,Eat the Frog,Outdoors,Planning,180,15,Medium
+5,Thursday,Deep Work,Library,Writing,120,15,Medium
+6,Wednesday,Eat the Frog,Home,Planning,60,5,High
+7,Saturday,Task Batching,Coffee Shop,Reading,30,20,Low
+8,Wednesday,Task Batching,Office,Planning,90,10,Medium
+9,Monday,Task Batching,Outdoors,Reading,30,25,Medium
+10,Tuesday,Zen to Done,Library,Planning,180,25,Medium
+11,Thursday,Deep Work,Outdoors,Reading,90,25,Medium
+12,Wednesday,Task Batching,Library,Planning,90,10,Low
+13,Friday,Deep Work,Library,Writing,150,20,High
+14,Saturday,Deep Work,Office,Reading,30,20,Medium
+15,Thursday,Task Batching,Office,Reading,120,10,High
+16,Wednesday,Task Batching,Library,Coding,150,20,High
+17,Saturday,Eat the Frog,Library,Writing,30,10,Low
+18,Saturday,Deep Work,Outdoors,Writing,90,25,Low
+19,Thursday,Eat the Frog,Home,Reading,30,15,Low
+20,Saturday,Zen to Done,Library,Reading,150,10,Medium
+21,Wednesday,Zen to Done,Library,Reading,180,25,High
+22,Wednesday,Task Batching,Outdoors,Writing,180,15,High
+23,Thursday,Eat the Frog,Home,Coding,30,15,Low
+24,Monday,Zen to Done,Coffee Shop,Note Taking,30,10,Low
+25,Thursday,Eat the Frog,Home,Planning,60,15,Low
+26,Friday,Zen to Done,Home,Writing,180,15,Low
+27,Friday,Deep Work,Coffee Shop,Note Taking,30,25,Medium
+28,Friday,Deep Work,Outdoors,Reading,60,15,Medium
+29,Tuesday,Task Batching,Coffee Shop,Planning,30,15,Medium
+30,Monday,Eat the Frog,Home,Reading,30,15,Low
+31,Tuesday,Task Batching,Library,Note Taking,120,10,Low
+32,Thursday,Zen to Done,Office,Planning,120,5,Medium
+33,Saturday,Task Batching,Home,Note Taking,180,5,High
+34,Thursday,Zen to Done,Office,Coding,60,20,Low
+35,Thursday,Task Batching,Coffee Shop,Reading,180,5,Medium
+36,Friday,Zen to Done,Coffee Shop,Reading,90,20,High
+37,Monday,Zen to Done,Home,Coding,90,15,Low
+38,Thursday,Zen to Done,Coffee Shop,Reading,120,5,Low
+39,Saturday,Zen to Done,Outdoors,Reading,180,25,Low
+40,Monday,Task Batching,Home,Writing,90,5,Medium
+41,Friday,Deep Work,Coffee Shop,Writing,90,15,Low
+42,Tuesday,Deep Work,Library,Planning,60,5,Low
+43,Wednesday,Deep Work,Home,Reading,30,25,High
+44,Thursday,Zen to Done,Library,Reading,90,25,Low
+45,Wednesday,Task Batching,Home,Planning,180,5,High
+46,Thursday,Eat the Frog,Home,Planning,120,15,Medium
+47,Friday,Zen to Done,Library,Note Taking,90,5,Medium
+48,Saturday,Deep Work,Library,Reading,180,10,Low
+49,Saturday,Deep Work,Coffee Shop,Writing,150,20,Low
+50,Monday,Zen to Done,Outdoors,Coding,60,20,High
+51,Thursday,Task Batching,Home,Reading,90,25,Low
+52,Monday,Eat the Frog,Office,Coding,90,10,High
+53,Saturday,Zen to Done,Library,Reading,30,25,Low
+54,Tuesday,Eat the Frog,Home,Planning,90,10,Low
+55,Tuesday,Eat the Frog,Home,Writing,90,10,Low
+56,Thursday,Deep Work,Library,Planning,60,25,Medium
+57,Tuesday,Zen to Done,Outdoors,Note Taking,150,15,High
+58,Saturday,Task Batching,Coffee Shop,Note Taking,120,10,High
+59,Friday,Zen to Done,Outdoors,Writing,60,10,High
+60,Thursday,Zen to Done,Library,Writing,90,5,Medium
+61,Monday,Task Batching,Library,Note Taking,90,5,Medium
+62,Tuesday,Deep Work,Library,Reading,120,20,High
+63,Saturday,Zen to Done,Coffee Shop,Planning,150,20,High
+64,Wednesday,Zen to Done,Library,Coding,150,20,Medium
+65,Thursday,Deep Work,Home,Coding,120,15,High
+66,Wednesday,Eat the Frog,Coffee Shop,Reading,30,10,High
+67,Saturday,Zen to Done,Library,Coding,30,5,High
+68,Monday,Zen to Done,Home,Note Taking,150,15,Low
+69,Saturday,Task Batching,Library,Planning,30,10,High
+70,Friday,Deep Work,Coffee Shop,Writing,180,25,Low
+71,Wednesday,Task Batching,Outdoors,Coding,120,25,Medium
+72,Friday,Deep Work,Library,Note Taking,150,10,High
+73,Wednesday,Deep Work,Office,Writing,180,25,Medium
+74,Monday,Deep Work,Office,Planning,30,15,Medium
+75,Monday,Task Batching,Library,Planning,30,20,High
+76,Saturday,Deep Work,Library,Reading,30,20,Medium
+77,Wednesday,Zen to Done,Outdoors,Planning,30,25,Low
+78,Friday,Eat the Frog,Office,Coding,180,25,Medium
+79,Tuesday,Deep Work,Library,Planning,150,15,Low
+80,Thursday,Zen to Done,Outdoors,Note Taking,30,20,High
+81,Friday,Task Batching,Library,Writing,60,25,Low
+82,Thursday,Zen to Done,Coffee Shop,Reading,60,25,Low
+83,Monday,Deep Work,Library,Note Taking,60,10,Medium
+84,Thursday,Zen to Done,Outdoors,Writing,60,5,Medium
+85,Wednesday,Deep Work,Outdoors,Reading,30,15,High
+86,Wednesday,Eat the Frog,Home,Note Taking,30,10,High
+87,Friday,Deep Work,Home,Planning,30,20,Medium
+88,Wednesday,Eat the Frog,Office,Coding,150,20,Medium
+89,Friday,Eat the Frog,Coffee Shop,Note Taking,150,10,Low
+90,Wednesday,Task Batching,Home,Coding,30,20,High
+91,Tuesday,Deep Work,Library,Coding,120,20,Medium
+92,Saturday,Eat the Frog,Outdoors,Writing,180,15,Low
+93,Friday,Deep Work,Coffee Shop,Coding,150,5,High
+94,Saturday,Task Batching,Outdoors,Coding,180,15,Low
+95,Monday,Eat the Frog,Coffee Shop,Note Taking,30,15,Low
+96,Wednesday,Zen to Done,Home,Reading,30,20,Low
+97,Thursday,Deep Work,Office,Writing,90,25,High
+98,Saturday,Task Batching,Coffee Shop,Reading,30,5,High
+99,Tuesday,Deep Work,Office,Writing,180,25,Medium
+100,Tuesday,Zen to Done,Coffee Shop,Coding,180,5,Low
+101,Tuesday,Zen to Done,Office,Writing,150,10,Low
+102,Friday,Eat the Frog,Library,Note Taking,150,20,High
+103,Monday,Zen to Done,Outdoors,Reading,90,5,High
+104,Monday,Deep Work,Outdoors,Reading,90,15,Medium
+105,Saturday,Deep Work,Office,Coding,90,25,Low
+106,Monday,Task Batching,Home,Reading,90,5,Medium
+107,Wednesday,Deep Work,Home,Coding,120,15,High
+108,Thursday,Task Batching,Outdoors,Reading,30,10,Low
+109,Friday,Eat the Frog,Library,Note Taking,60,25,Medium
+110,Tuesday,Zen to Done,Coffee Shop,Note Taking,90,25,High
+111,Tuesday,Zen to Done,Library,Coding,30,5,Medium
+112,Tuesday,Task Batching,Office,Coding,30,10,Low
+113,Friday,Deep Work,Coffee Shop,Coding,150,5,Low
+114,Monday,Eat the Frog,Office,Coding,120,25,Medium
+115,Wednesday,Eat the Frog,Office,Writing,180,25,High
+116,Wednesday,Deep Work,Office,Planning,30,5,High
+117,Monday,Task Batching,Outdoors,Note Taking,90,20,High
+118,Thursday,Zen to Done,Library,Note Taking,60,10,Medium
+119,Tuesday,Deep Work,Library,Reading,90,5,Medium
+120,Friday,Deep Work,Home,Note Taking,150,20,Medium
+121,Thursday,Zen to Done,Office,Coding,150,25,Medium
+122,Saturday,Task Batching,Outdoors,Note Taking,30,15,High
+123,Thursday,Task Batching,Coffee Shop,Reading,120,15,High
+124,Friday,Deep Work,Office,Reading,30,25,Low
+125,Wednesday,Deep Work,Home,Planning,120,25,Low
+126,Friday,Zen to Done,Office,Note Taking,180,10,Medium
+127,Tuesday,Deep Work,Coffee Shop,Planning,60,20,High
+128,Saturday,Task Batching,Outdoors,Coding,30,25,High
+129,Wednesday,Deep Work,Home,Reading,60,15,Low
+130,Thursday,Task Batching,Library,Coding,60,15,High
+131,Saturday,Zen to Done,Home,Coding,120,10,Low
+132,Friday,Zen to Done,Home,Reading,30,20,Low
+133,Monday,Eat the Frog,Coffee Shop,Writing,90,5,Low
+134,Tuesday,Zen to Done,Home,Writing,180,5,Medium
+135,Wednesday,Zen to Done,Office,Note Taking,30,15,Medium
+136,Wednesday,Deep Work,Library,Coding,30,10,Medium
+137,Friday,Task Batching,Coffee Shop,Reading,120,5,Medium
+138,Tuesday,Task Batching,Office,Planning,90,25,High
+139,Thursday,Eat the Frog,Home,Writing,30,20,Medium
+140,Saturday,Deep Work,Coffee Shop,Reading,90,15,Low
+141,Monday,Task Batching,Office,Planning,90,15,Medium
+142,Friday,Deep Work,Home,Note Taking,150,10,Low
+143,Friday,Task Batching,Home,Writing,90,20,High
+144,Tuesday,Deep Work,Office,Planning,150,10,Low
+145,Monday,Task Batching,Home,Reading,150,5,High
+146,Monday,Task Batching,Home,Writing,60,10,Medium
+147,Monday,Eat the Frog,Library,Planning,150,5,Low
+148,Wednesday,Task Batching,Coffee Shop,Coding,90,20,Medium
+149,Monday,Eat the Frog,Coffee Shop,Writing,120,5,High
+150,Wednesday,Task Batching,Office,Coding,150,10,Medium
+151,Thursday,Deep Work,Library,Planning,120,15,High
+152,Monday,Task Batching,Library,Writing,60,5,Low
+153,Monday,Zen to Done,Outdoors,Planning,180,20,Medium
+154,Saturday,Task Batching,Office,Writing,60,10,Low
+155,Saturday,Task Batching,Home,Planning,60,25,Medium
+156,Thursday,Task Batching,Home,Reading,120,20,High
+157,Saturday,Zen to Done,Library,Coding,60,25,High
+158,Monday,Eat the Frog,Library,Planning,180,5,Low
+159,Friday,Task Batching,Library,Writing,90,10,Low
+160,Monday,Deep Work,Library,Coding,180,5,Medium
+161,Thursday,Zen to Done,Outdoors,Writing,150,10,Medium
+162,Tuesday,Task Batching,Outdoors,Reading,60,5,Low
+163,Thursday,Zen to Done,Coffee Shop,Coding,30,5,Low
+164,Saturday,Deep Work,Coffee Shop,Coding,150,5,Medium
+165,Wednesday,Eat the Frog,Home,Note Taking,90,20,High
+166,Tuesday,Task Batching,Outdoors,Writing,180,5,High
+167,Friday,Task Batching,Library,Note Taking,180,20,High
+168,Thursday,Task Batching,Outdoors,Note Taking,180,10,High
+169,Thursday,Deep Work,Outdoors,Reading,30,10,Low
+170,Friday,Deep Work,Office,Writing,180,25,High
+171,Saturday,Task Batching,Home,Note Taking,30,20,Medium
+172,Saturday,Zen to Done,Library,Note Taking,30,15,High
+173,Monday,Task Batching,Office,Planning,180,15,Medium
+174,Saturday,Task Batching,Library,Planning,150,25,High
+175,Tuesday,Deep Work,Outdoors,Coding,150,15,Low
+176,Friday,Task Batching,Coffee Shop,Writing,30,10,Medium
+177,Wednesday,Deep Work,Coffee Shop,Reading,60,25,Low
+178,Saturday,Eat the Frog,Outdoors,Planning,30,15,Low
+179,Thursday,Task Batching,Home,Coding,60,25,Low
+180,Friday,Deep Work,Library,Reading,120,10,Medium
+181,Thursday,Deep Work,Outdoors,Note Taking,120,5,Low
+182,Tuesday,Task Batching,Library,Note Taking,90,20,Low
+183,Thursday,Zen to Done,Coffee Shop,Coding,30,25,Low
+184,Thursday,Deep Work,Outdoors,Writing,150,5,Low
+185,Tuesday,Deep Work,Office,Writing,30,20,Medium
+186,Tuesday,Task Batching,Outdoors,Planning,90,15,Medium
+187,Monday,Eat the Frog,Home,Writing,180,5,High
+188,Saturday,Deep Work,Library,Note Taking,150,5,Low
+189,Tuesday,Task Batching,Outdoors,Writing,180,20,Medium
+190,Friday,Task Batching,Coffee Shop,Coding,120,20,High
+191,Thursday,Task Batching,Coffee Shop,Coding,60,25,Medium
+192,Saturday,Deep Work,Home,Coding,150,10,Low
+193,Tuesday,Task Batching,Library,Coding,30,15,High
+194,Wednesday,Zen to Done,Home,Writing,30,10,High
+195,Friday,Deep Work,Home,Writing,150,15,High
+196,Thursday,Task Batching,Home,Coding,150,25,Low
+197,Thursday,Task Batching,Coffee Shop,Planning,60,20,High
+198,Wednesday,Task Batching,Home,Planning,30,25,High
+199,Friday,Zen to Done,Office,Reading,150,5,Low
+200,Saturday,Zen to Done,Office,Reading,120,5,High
+201,Thursday,Deep Work,Home,Writing,90,15,Low
+202,Saturday,Zen to Done,Outdoors,Writing,180,5,Medium
+203,Wednesday,Deep Work,Coffee Shop,Note Taking,120,20,Low
+204,Thursday,Deep Work,Home,Reading,150,20,Low
+205,Monday,Eat the Frog,Office,Note Taking,120,25,High
+206,Friday,Deep Work,Library,Writing,30,5,Low
+207,Tuesday,Zen to Done,Coffee Shop,Note Taking,120,20,Medium
+208,Saturday,Eat the Frog,Office,Reading,30,20,High
+209,Monday,Deep Work,Coffee Shop,Reading,150,5,Low
+210,Thursday,Eat the Frog,Office,Writing,150,25,High
+211,Thursday,Zen to Done,Office,Planning,180,20,Medium
+212,Wednesday,Eat the Frog,Outdoors,Note Taking,30,15,High
+213,Wednesday,Deep Work,Office,Coding,90,25,Medium
+214,Thursday,Task Batching,Office,Note Taking,150,15,Medium
+215,Monday,Zen to Done,Outdoors,Writing,180,20,Low
+216,Tuesday,Task Batching,Home,Writing,150,25,Low
+217,Friday,Deep Work,Coffee Shop,Planning,60,15,Low
+218,Thursday,Eat the Frog,Office,Writing,180,20,Medium
+219,Friday,Task Batching,Library,Writing,150,25,Low
+220,Monday,Deep Work,Coffee Shop,Coding,90,5,Low
+221,Monday,Deep Work,Outdoors,Writing,120,5,High
+222,Wednesday,Zen to Done,Outdoors,Writing,120,25,Medium
+223,Wednesday,Eat the Frog,Office,Note Taking,180,25,Low
+224,Tuesday,Task Batching,Home,Writing,150,25,Low
+225,Wednesday,Deep Work,Coffee Shop,Planning,120,10,Medium
+226,Friday,Deep Work,Outdoors,Coding,30,5,Low
+227,Tuesday,Zen to Done,Office,Reading,120,25,Medium
+228,Tuesday,Eat the Frog,Coffee Shop,Coding,150,10,Low
+229,Saturday,Eat the Frog,Library,Note Taking,150,20,Low
+230,Monday,Deep Work,Office,Writing,60,20,High
+231,Saturday,Eat the Frog,Office,Planning,60,5,Medium
+232,Friday,Task Batching,Home,Planning,180,15,Low
+233,Monday,Deep Work,Outdoors,Reading,150,5,Low
+234,Saturday,Deep Work,Coffee Shop,Note Taking,30,10,Medium
+235,Thursday,Zen to Done,Coffee Shop,Coding,30,25,High
+236,Friday,Zen to Done,Library,Writing,180,5,Low
+237,Saturday,Task Batching,Library,Coding,150,25,High
+238,Tuesday,Eat the Frog,Library,Coding,90,25,Medium
+239,Monday,Zen to Done,Office,Reading,150,15,Low
+240,Thursday,Task Batching,Office,Reading,180,25,Low
+241,Tuesday,Zen to Done,Outdoors,Note Taking,180,10,Medium
+242,Wednesday,Deep Work,Library,Note Taking,180,10,Low
+243,Thursday,Deep Work,Office,Note Taking,90,20,Low
+244,Tuesday,Task Batching,Home,Coding,90,25,High
+245,Monday,Zen to Done,Library,Planning,30,15,Medium
+246,Thursday,Task Batching,Outdoors,Reading,30,15,Medium
+247,Saturday,Task Batching,Outdoors,Note Taking,180,15,Low
+248,Saturday,Task Batching,Coffee Shop,Coding,90,10,Low
+249,Friday,Deep Work,Outdoors,Coding,60,5,Low
+250,Tuesday,Deep Work,Library,Planning,60,5,Medium
+251,Tuesday,Zen to Done,Coffee Shop,Note Taking,30,25,Medium
+252,Friday,Deep Work,Library,Planning,60,5,Low
+253,Saturday,Task Batching,Office,Writing,90,5,High
+254,Tuesday,Task Batching,Office,Planning,30,10,Low
+255,Wednesday,Deep Work,Library,Note Taking,30,20,Low
+256,Friday,Eat the Frog,Office,Note Taking,90,20,Low
+257,Wednesday,Deep Work,Home,Reading,150,15,Low
+258,Friday,Deep Work,Outdoors,Coding,150,20,Low
+259,Thursday,Task Batching,Coffee Shop,Planning,60,10,High
+260,Wednesday,Deep Work,Outdoors,Writing,30,15,Low
+261,Friday,Eat the Frog,Office,Planning,150,25,Low
+262,Friday,Deep Work,Outdoors,Note Taking,90,5,Medium
+263,Thursday,Task Batching,Coffee Shop,Reading,180,25,High
+264,Saturday,Deep Work,Home,Writing,120,10,Low
+265,Saturday,Task Batching,Outdoors,Writing,60,20,High
+266,Monday,Deep Work,Home,Note Taking,90,10,Low
+267,Tuesday,Task Batching,Outdoors,Note Taking,150,5,Medium
+268,Saturday,Task Batching,Library,Writing,180,25,High
+269,Friday,Eat the Frog,Home,Planning,180,20,Medium
+270,Monday,Zen to Done,Outdoors,Reading,60,5,Medium
+271,Wednesday,Deep Work,Coffee Shop,Note Taking,60,15,Low
+272,Thursday,Deep Work,Office,Writing,120,25,High
+273,Friday,Task Batching,Library,Reading,180,20,Low
+274,Saturday,Deep Work,Home,Note Taking,90,5,High
+275,Wednesday,Eat the Frog,Coffee Shop,Reading,30,15,Low
+276,Tuesday,Deep Work,Outdoors,Writing,60,5,High
+277,Tuesday,Deep Work,Home,Writing,30,10,Medium
+278,Friday,Deep Work,Office,Note Taking,180,20,Low
+279,Friday,Deep Work,Office,Writing,30,20,High
+280,Wednesday,Deep Work,Library,Note Taking,90,25,Medium
+281,Thursday,Task Batching,Coffee Shop,Writing,60,15,Medium
+282,Thursday,Deep Work,Library,Writing,180,15,Medium
+283,Friday,Zen to Done,Coffee Shop,Planning,150,5,Low
+284,Thursday,Zen to Done,Outdoors,Note Taking,60,20,Low
+285,Wednesday,Deep Work,Office,Planning,30,5,High
+286,Monday,Zen to Done,Coffee Shop,Reading,180,25,Low
+287,Thursday,Deep Work,Office,Note Taking,90,5,Medium
+288,Tuesday,Eat the Frog,Coffee Shop,Reading,90,15,Medium
+289,Saturday,Deep Work,Coffee Shop,Note Taking,120,15,High
+290,Monday,Deep Work,Office,Planning,90,25,Medium
+291,Friday,Eat the Frog,Office,Reading,60,5,Low
+292,Tuesday,Zen to Done,Coffee Shop,Planning,30,10,Low
+293,Wednesday,Deep Work,Home,Note Taking,180,20,Medium
+294,Tuesday,Zen to Done,Home,Reading,180,10,High
+295,Wednesday,Eat the Frog,Outdoors,Reading,90,15,Medium
+296,Monday,Deep Work,Library,Note Taking,180,10,Medium
+297,Saturday,Zen to Done,Office,Coding,150,20,Low
+298,Friday,Task Batching,Outdoors,Writing,180,5,Medium
+299,Monday,Zen to Done,Home,Note Taking,150,25,High
+300,Monday,Zen to Done,Home,Reading,150,20,Low
+301,Monday,Task Batching,Coffee Shop,Note Taking,120,15,High
+302,Thursday,Deep Work,Coffee Shop,Coding,30,15,Medium
+303,Tuesday,Task Batching,Office,Planning,120,25,High
+304,Saturday,Zen to Done,Office,Planning,180,5,High
+305,Tuesday,Eat the Frog,Library,Note Taking,30,5,Low
+306,Thursday,Deep Work,Office,Coding,150,15,High
+307,Wednesday,Task Batching,Office,Planning,60,15,Low
+308,Thursday,Zen to Done,Office,Reading,120,5,Low
+309,Tuesday,Deep Work,Outdoors,Planning,60,15,Low
+310,Monday,Task Batching,Coffee Shop,Writing,60,25,Low
+311,Friday,Zen to Done,Coffee Shop,Writing,60,15,High
+312,Wednesday,Task Batching,Office,Coding,150,25,High
+313,Saturday,Task Batching,Library,Planning,30,5,High
+314,Friday,Zen to Done,Coffee Shop,Coding,120,25,High
+315,Saturday,Eat the Frog,Outdoors,Writing,90,15,Medium
+316,Saturday,Task Batching,Home,Planning,180,15,Low
+317,Saturday,Deep Work,Outdoors,Writing,120,25,High
+318,Wednesday,Zen to Done,Coffee Shop,Coding,90,5,Low
+319,Tuesday,Task Batching,Coffee Shop,Reading,120,15,Low
+320,Friday,Zen to Done,Home,Note Taking,120,10,Medium
+321,Monday,Task Batching,Office,Writing,60,15,Medium
+322,Friday,Task Batching,Coffee Shop,Planning,120,10,High
+323,Monday,Task Batching,Coffee Shop,Coding,60,10,Low
+324,Thursday,Deep Work,Library,Reading,30,10,Medium
+325,Wednesday,Deep Work,Office,Planning,120,25,Medium
+326,Thursday,Task Batching,Coffee Shop,Planning,150,20,High
+327,Monday,Zen to Done,Home,Note Taking,180,25,High
+328,Monday,Eat the Frog,Office,Note Taking,180,20,Low
+329,Wednesday,Zen to Done,Library,Planning,180,10,High
+330,Thursday,Deep Work,Coffee Shop,Coding,30,25,Medium
+331,Thursday,Deep Work,Home,Writing,120,25,Low
+332,Friday,Deep Work,Outdoors,Planning,90,20,Low
+333,Wednesday,Task Batching,Home,Coding,120,5,Medium
+334,Wednesday,Zen to Done,Office,Writing,30,20,High
+335,Thursday,Eat the Frog,Library,Reading,180,10,Low
+336,Friday,Eat the Frog,Coffee Shop,Writing,30,25,Medium
+337,Wednesday,Task Batching,Home,Planning,180,5,Low
+338,Saturday,Deep Work,Office,Coding,90,15,High
+339,Monday,Deep Work,Home,Coding,150,15,High
+340,Tuesday,Deep Work,Coffee Shop,Reading,30,15,High
+341,Monday,Deep Work,Office,Reading,30,10,Medium
+342,Tuesday,Zen to Done,Coffee Shop,Note Taking,60,10,Low
+343,Thursday,Zen to Done,Home,Coding,180,15,Low
+344,Wednesday,Deep Work,Library,Reading,30,5,High
+345,Wednesday,Task Batching,Coffee Shop,Planning,150,20,Low
+346,Thursday,Deep Work,Library,Writing,120,20,Low
+347,Monday,Eat the Frog,Home,Writing,150,5,Medium
+348,Thursday,Deep Work,Home,Writing,30,20,Low
+349,Thursday,Eat the Frog,Outdoors,Writing,180,15,High
